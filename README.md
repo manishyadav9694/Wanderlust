@@ -11,4 +11,8 @@ Features:
 
 Tech Stack: Node.js, Express, MongoDB, EJS, Bootstrap
 
-Live Demo: [link ayega yaha - jab deploy karoge]
+## Live Demo
+🔗 https://wanderlust-3k4x.onrender.com
+
+## Screenshots
+![Wanderlust Live](./screenshots/homepage.png)
